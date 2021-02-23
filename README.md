@@ -13,7 +13,7 @@ L’utilisateur doit pouvoir :
 
 **La base de donnée où les données seront stockées doit être de type sqlite.**
 
-Attention : l’utilisation des librairies n’est pas consentie.
+Attention : l’utilisation des librairies n’est pas autorisée.
 
 **Procédure :**
 -	Cloner le repository
